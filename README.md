@@ -1,1 +1,1 @@
-![ASCII Banner](./images//ascii-art-text (5).png)
+![ASCII Banner](./images//ascii-art-text.png)
